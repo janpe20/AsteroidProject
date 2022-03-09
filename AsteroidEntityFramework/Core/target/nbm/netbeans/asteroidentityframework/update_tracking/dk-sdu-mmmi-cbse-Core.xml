@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Core">
-    <module_version install_time="1646823511301" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1646825116957" last="true" origin="installer" specification_version="1.0">
         <file crc="2476775396" name="config/Modules/dk-sdu-mmmi-cbse-Core.xml"/>
-        <file crc="4015659403" name="modules/dk-sdu-mmmi-cbse-Core.jar"/>
+        <file crc="2662189168" name="modules/dk-sdu-mmmi-cbse-Core.jar"/>
         <file crc="1603646078" name="modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar"/>
         <file crc="491759067" name="modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar"/>
         <file crc="2059226421" name="modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar"/>
