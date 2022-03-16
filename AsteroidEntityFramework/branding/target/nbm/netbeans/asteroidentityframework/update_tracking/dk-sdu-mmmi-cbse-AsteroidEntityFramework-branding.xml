@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.AsteroidEntityFramework.branding">
-    <module_version install_time="1646825112338" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1647426887584" last="true" origin="installer" specification_version="1.0">
         <file crc="3821145616" name="config/Modules/dk-sdu-mmmi-cbse-AsteroidEntityFramework-branding.xml"/>
-        <file crc="2055997906" name="core/locale/core_asteroidentityframework.jar"/>
-        <file crc="1947786540" name="modules/dk-sdu-mmmi-cbse-AsteroidEntityFramework-branding.jar"/>
-        <file crc="3015642349" name="modules/locale/org-netbeans-core-windows_asteroidentityframework.jar"/>
-        <file crc="2216240673" name="modules/locale/org-netbeans-core_asteroidentityframework.jar"/>
+        <file crc="1803775606" name="core/locale/core_asteroidentityframework.jar"/>
+        <file crc="4255118685" name="modules/dk-sdu-mmmi-cbse-AsteroidEntityFramework-branding.jar"/>
+        <file crc="259868181" name="modules/locale/org-netbeans-core-windows_asteroidentityframework.jar"/>
+        <file crc="184605385" name="modules/locale/org-netbeans-core_asteroidentityframework.jar"/>
     </module_version>
 </module>

@@ -20,10 +20,14 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.netbeans.cluster</groupId>
-            <artifactId>platform</artifactId>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>Core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.netbeans.modules</groupId>
+            <artifactId>org-netbeans-core-startup</artifactId>
             <version>${netbeans.version}</version>
-            <type>pom</type>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>

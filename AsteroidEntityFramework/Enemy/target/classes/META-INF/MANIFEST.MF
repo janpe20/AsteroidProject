@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20220309
-OpenIDE-Module-Build-Version: 202203091125
+OpenIDE-Module-Implementation-Version: 1.0-20220316
+OpenIDE-Module-Build-Version: 202203161034
 OpenIDE-Module: dk.sdu.mmmi.cbse.Enemy
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
@@ -12,5 +12,5 @@ OpenIDE-Module-Short-Description: <undefined>
 OpenIDE-Module-Long-Description: <undefined>
 OpenIDE-Module-Module-Dependencies: dk.sdu.mmmi.cbse.Common > 1.0, org
  .netbeans.api.annotations.common/1 > 1.42, org.openide.util.lookup > 
- 8.39
+ 8.47
 
