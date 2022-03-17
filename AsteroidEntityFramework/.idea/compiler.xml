@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Player" />
         <module name="Asteroid" />
+        <module name="SilentUpdate" />
         <module name="AsteroidEntityFramework-app" />
         <module name="Enemy" />
         <module name="Collision" />
