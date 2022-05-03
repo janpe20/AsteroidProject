@@ -1,0 +1,2 @@
+Bundle-SymbolicName: dk.sdu.mmmi.OSGiCore
+Service-Component: META-INF/core.xml
