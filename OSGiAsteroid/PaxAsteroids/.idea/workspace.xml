@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc43ca93-b898-48dd-99e5-2f26b0f19485" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/java/dk/sdu/mmmi/cbse/Asteroid/Asteroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/java/dk/sdu/mmmi/cbse/Asteroid/AsteroidControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/java/dk/sdu/mmmi/cbse/Asteroid/AsteroidPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/java/dk/sdu/mmmi/cbse/Asteroid/AsteroidType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/resources/META-INF/entityprocessor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiAsteroid/src/main/resources/META-INF/gameplugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCollision/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCollision/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCollision/src/main/java/dk/sdu/mmmi/cbse/OSGiCollision/Collision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCollision/src/main/resources/META-INF/postentityprocessor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/GameData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/GameKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/entityparts/EntityPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/entityparts/LifePart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/entityparts/MovingPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/data/entityparts/PositionPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/events/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/services/IEntityProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/services/IGamePluginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCommon/src/main/java/dk/sdu/mmmi/cbse/OSGiCommon/services/IPostEntityProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCore/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCore/src/main/java/dk/sdu/mmmi/OSGiCore/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCore/src/main/java/dk/sdu/mmmi/OSGiCore/managers/GameInputProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiCore/src/main/resources/META-INF/core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/src/main/java/dk/sdu/mmmi/OSGiEnemy/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/src/main/java/dk/sdu/mmmi/OSGiEnemy/EnemyControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/src/main/java/dk/sdu/mmmi/OSGiEnemy/EnemyPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/src/main/resources/META-INF/entityprocessor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiEnemy/src/main/resources/META-INF/gameplugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiLibGDX/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiLibGDX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/osgi.bnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/src/main/java/dk/sdu/mmmi/cbse/OSGiPlayer/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/src/main/java/dk/sdu/mmmi/cbse/OSGiPlayer/PlayerControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/src/main/java/dk/sdu/mmmi/cbse/OSGiPlayer/PlayerPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/src/main/resources/META-INF/entityprocessor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/dk.sdu.mmmi.cbse.OSGiPlayer/src/main/resources/META-INF/gameplugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/poms/compiled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/poms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/poms/wrappers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/provision/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/com.diffplug.osgi.extension.sun.misc_0.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/com.diffplug.osgi.extension.sun.reflect_0.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/dk.sdu.mmmi.OSGiCore_1.0.0.SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/dk.sdu.mmmi.cbse.Asteroid_1.0.0.SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/dk.sdu.mmmi.cbse.OSGiCommon_1.0.0.SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/dk.sdu.mmmi.cbse.OSGiLibGDX_1.0.0.SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/downloaded_bundles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/org.apache.felix.gogo.command_0.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/org.apache.felix.gogo.runtime_0.16.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/org.apache.felix.gogo.shell_0.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/bundles/org.apache.felix.main_5.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/deploy-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle0/bundle.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle1/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle1/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle1/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle2/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle2/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle2/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle3/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle3/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle3/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle4/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle4/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle4/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle5/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle5/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle5/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle6/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle6/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle6/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle7/bundle.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle7/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/cache/runner/bundle7/version0.0/revision.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSGiProject/runner/felix/config.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="26sEH6seSgLVU1oImOdUfHy60Jr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/janpe20/Desktop/AsteroidProject/PaxAsteroids",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc43ca93-b898-48dd-99e5-2f26b0f19485" name="Changes" comment="" />
+      <created>1648203803647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648203803647</updated>
+      <workItem from="1648203804902" duration="4097000" />
+      <workItem from="1648401479977" duration="3572000" />
+      <workItem from="1648451385064" duration="4137000" />
+      <workItem from="1648464498800" duration="1435000" />
+      <workItem from="1648544296246" duration="1688000" />
+      <workItem from="1649069896690" duration="3353000" />
+      <workItem from="1649226466831" duration="261000" />
+      <workItem from="1650530911566" duration="7128000" />
+      <workItem from="1650539159003" duration="68000" />
+      <workItem from="1650539241678" duration="365000" />
+      <workItem from="1650539620927" duration="5747000" />
+      <workItem from="1650801506828" duration="50000" />
+      <workItem from="1650866571764" duration="9402000" />
+      <workItem from="1651474726363" duration="8234000" />
+      <workItem from="1651565253871" duration="10235000" />
+      <workItem from="1651649287830" duration="31000" />
+      <workItem from="1651652563397" duration="2509000" />
+      <workItem from="1651656070637" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bnd" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
