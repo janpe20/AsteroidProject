@@ -6,8 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dk.sdu.mmmi.OSGiAsteroidSplitter" />
+        <module name="dk.sdu.mmmi.OSGiLaser" />
+        <module name="dk.sdu.mmmi.OSGiCommonEnemy" />
+        <module name="dk.sdu.mmmi.OSGiCommon" />
+        <module name="dk.sdu.mmmi.OSGiCommonAsteroids" />
+        <module name="dk.sdu.mmmi.OSGiAsteroids" />
+        <module name="dk.sdu.mmmi.OSGiCore" />
         <module name="OSGiLibGDX" />
+        <module name="dk.sdu.mmmi.OSGiBullet" />
+        <module name="dk.sdu.mmmi.OSGiEnemy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dk.sdu.mmmi" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
